@@ -1,7 +1,7 @@
 import boto3
 import csv
 
-s3 = boto3.resource('s3', aws_access_key_id='AKIASKONREDYFY5F4645', aws_secret_access_key='zCHl91+QVMj0Z+atP9FE0eC4B/X5Y0prxXlI5B0b')
+s3 = boto3.resource('s3', aws_access_key_id='AKIASKONREDYFY5F4645', aws_secret_access_key='This is a placeholder')
 b_name = 'adacav4-datacont-cs1660-pgh'
 
 try:
